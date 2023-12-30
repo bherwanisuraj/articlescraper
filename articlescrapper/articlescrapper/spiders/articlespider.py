@@ -1,5 +1,7 @@
 import scrapy
 import pandas as pd
+import time
+import w3lib
 
 import re
 from scrapy_selenium import SeleniumRequest
@@ -33,25 +35,83 @@ class ArticlespiderSpider(scrapy.Spider):
     #     ))
 
     def start_requests(self):
-        for url in self.urls:
-            yield SeleniumRequest(url=url, callback=self.parse, wait_time=10, wait_until=EC.element_to_be_clickable((By.CLASS_NAME, 'td-post-content')))
+        # for url in self.urls:
+        #     url = "https://insights.blackcoffer.com/covid-19-environmental-impact-for-the-future/"
+        #     code = SeleniumRequest(url=url, callback=self.parse, wait_time=10, wait_until=EC.element_to_be_clickable((By.CLASS_NAME, 'td-post-content')))
+        #     print(f"Code _____________________________{type(code)}")
+        #     print(f"Code _____________________________{code}")
+        #     print(code.body)
+        #     yield code
+        #     break
+
+        for url, uid in zip(self.urls, self.uids):
+            yield SeleniumRequest(
+                url=url,
+                callback=self.parse,
+                wait_time=10,
+                wait_until=EC.presence_of_element_located((By.CLASS_NAME, 'td-post-content')),
+                meta={'uid': uid}
+            )
+
 
     def parse(self, response):
-        articleItem = ArticlescrapperItem()
 
-        articleItem['uid'] = self.uids[self.id]
-        articleItem['title'] = response.css('h1').get()
-        articleItem['article'] = response.css('div.td-post-content').get()
+        # print(f"Type {type(response.status)}")
 
-        # print(self.uids[self.id] + "--------------------------------------------------------")
+        if response.status == 404:
+            self.logger.warning(f"404 Not Found for URL: {response.url}")
+            # Handle 404 response here, for example, by logging or storing the URL in a separate list
+        # print(f"Type #########{response.status}")
 
-        # file = open(f"articles/{uids[id]}", 'w')
-        file = open(f"articles/{articleItem['uid']}.txt", 'w+', encoding="utf-8")
-        file.write(articleItem['title'] + " " + articleItem['article'])
-        file.close()
-        self.id += 1
+        # if response.status == 200:
 
-        yield articleItem
+        # articleItem = ArticlescrapperItem()
+        #
+        # articleItem['uid'] = self.uids[self.id]
+        # # print(articleItem['uid'])
+        # articleItem['title'] = response.css('h1').get()
+        # # print(articleItem['title'])
+        # articleItem['article'] = response.css('div.td-post-content').get()
+        #
+        # # print(self.uids[self.id] + "--------------------------------------------------------")
+        #
+        # # file = open(f"articles/{uids[id]}", 'w')
+        # # file = open(f"articles/{articleItem['uid']}.txt", 'w+', encoding="utf-8")
+        # # file.write(articleItem['title'] + " " + articleItem['article'])
+        # # file.close()
+        # self.id += 1
+        # yield articleItem
+        # # time.sleep(1)
+        #
+        # # else:
+        # #     self.id += 1
+
+        else:
+            articleItem = ArticlescrapperItem()
+
+            articleItem['uid'] = response.meta['uid']
+
+            articleItem['title'] = response.css('h1::text').get()
+            articleItem['title'] = re.sub(' +', ' ', articleItem['title'])
+            articleItem['title'] = w3lib.html.remove_tags(articleItem['title'])
+            articleItem['title'] = articleItem['title'].replace('NBSP', " & ")
+            articleItem['article'] = response.css('div.td-post-content').get()
+            articleItem['article'] = re.sub(' +', ' ', articleItem['article'])
+            articleItem['article'] = articleItem['article'].replace('\r', "")
+            articleItem['article'] = articleItem['article'].replace('\n', "")
+            articleItem['article'] = articleItem['article'].replace('\t', "")
+            articleItem['article'] = articleItem['article'].replace(' ', " & ")
+            articleItem['article'] = w3lib.html.remove_tags_with_content(articleItem['article'], ('pre',))
+            articleItem['article'] = w3lib.html.remove_tags(w3lib.html.remove_tags_with_content(articleItem['article'], ('style',)))
+
+
+
+            yield articleItem
+
+            # file = open(f"articles/{articleItem['uid']}", 'w')
+            file = open(f"articles/{articleItem['uid']}.txt", 'w+', encoding="utf-8")
+            file.write(articleItem['title'] + " " + articleItem['article'])
+            file.close()
 
 
 
