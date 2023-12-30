@@ -1,0 +1,152 @@
+<h1 class="entry-title">Will AI Replace Us or Work With Us?</h1> <div class="td-post-content tagdiv-type">
+        
+<p>“Machine intelligence is the last invention that humanity will ever need to make”</p>
+
+
+
+<p>Nick Bostrom</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" src="https://insights.blackcoffer.com/wp-content/uploads/2021/06/44.jpg" alt="" class="wp-image-3233" width="377" height="213" srcset="https://insights.blackcoffer.com/wp-content/uploads/2021/06/44.jpg 432w, https://insights.blackcoffer.com/wp-content/uploads/2021/06/44-300x169.jpg 300w" sizes="(max-width: 377px) 100vw, 377px"></figure></div>
+
+
+
+<p>To put it frankly, Artificial Intelligence will eventually replace jobs. Workers in a variety of industries, from healthcare to agriculture and manufacturing, should expect to witness hiring disruptions as a result of Artificial Intelligence.</p>
+
+
+
+<p>If history has taught us anything, it is that disruptive paradigm-shifting business ideas not only make a fortune for the innovators, but they also build the groundwork for new business models, market entrants, and job opportunities which will inevitably follow. It is true that robots today or in future will eventually replace humans for many jobs, but so did innovative farming equipment for humans and horses during the industrial revolution. But that does not mean that our jobs as humans will end here. We, on the other hand, will be required to generate and provide value in whole new ways for entirely new business models as a result of these changes.</p>
+
+
+
+<p>According to 71% of the businesses worldwide, Artificial Intelligence can help people overcome critical and challenging problems and live better lives. Artificial Intelligence consultants at work will be more or equally fair, according to a whopping 83% of corporate leaders. These results demonstrate that Artificial Intelligence is steadily extending its measures, yielding societal benefits and allowing citizens to live more fulfilling lives.</p>
+
+
+
+<figure class="is-layout-flex wp-block-gallery-1 wp-block-gallery aligncenter columns-1"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="381" height="253" src="https://insights.blackcoffer.com/wp-content/uploads/2021/06/22222-3.jpg" alt="" data-id="3237" data-full-url="https://insights.blackcoffer.com/wp-content/uploads/2021/06/22222-3.jpg" data-link="https://insights.blackcoffer.com/?attachment_id=3237" class="wp-image-3237" srcset="https://insights.blackcoffer.com/wp-content/uploads/2021/06/22222-3.jpg 381w, https://insights.blackcoffer.com/wp-content/uploads/2021/06/22222-3-300x199.jpg 300w" sizes="(max-width: 381px) 100vw, 381px"></figure></li></ul><figcaption class="blocks-gallery-caption"><strong>Increase in Automation and Jobs where humans can’t compete</strong></figcaption></figure>
+
+
+
+<p>Since the advent of Industry 4.0, businesses are moving at a fast pace towards automation, be it any type of industry. In 2013, researchers at oxford university did a study on the future of work. They concluded that almost one in every two jobs have a high risk of being automated by machines. Machine learning is responsible for this disruption. It is the most powerful branch of artificial intelligence. It allows machines to learn from data and mimic some of the things that humans can do.</p>
+
+
+
+<p>A research was conducted by the employees of Kaggle wherein an algorithm was to be created to take images of a human eye and diagnose an eye disease known as diabetic retinopathy. Here, the winning algorithm could match the diagnosis given by human ophthalmologists. Another study was conducted wherein an algorithm should be created to grade high school essays. Here too, the winning algorithm could match the grade given by human teachers.</p>
+
+
+
+<p>Thus, we can safely conclude that given the right data, machines can easily outperform human beings in tasks like these. A teacher might read 10,000 essays over a 40-year career; an ophthalmologist might see 50,000 eyes but a machine can read a million essays and see a million eyes within minutes.</p>
+
+
+
+<p>Thus, it is convenient to conclude that we have no chance of competing with machines on frequent, high volume tasks. </p>
+
+
+
+<p><strong>Tasks where machines don’t work</strong></p>
+
+
+
+<p>But there are tasks where human beings have an upper hand, and that is, in novel tasks. Machines can’t handle things they haven’t seen many times before. The fundamental rule of machine learning is that it learns from large volumes of past data. But humans don’t; we have the ability of seemingly connecting disparate threads to solve problems we haven’t seen before. </p>
+
+
+
+<p>Percy Spencer was a physicist working on radar during world war 2 where he noticed that the magnetron was melting his chocolate bar. Here, he was able to connect his understanding of electromagnetic radiation with his knowledge of cooking in order to invent the microwave oven. Now this sort of cross pollination happens to each one of us several times in a day. Thus, machines cannot compete with us when it comes to tackling novel situations. </p>
+
+
+
+<p>Now as we all know that around 92% of talented professionals believe that soft skills such as human interactions and fostering relationships matter much more than hard skills in being successful in managing a workplace. Perhaps, these are the kind of tasks that machines can never compete with humans at. </p>
+
+
+
+<p>Also, creative tasks: the copy behind a marketing campaign needs to grab customers’ attention and will have to stand out of the crowd. Business strategy means finding gaps in the market and accordingly working on them. Since machines cannot outperform humans in novel tasks, it will be humans who would be creating these campaigns and strategies. </p>
+
+
+
+<p>Human contact would be essential in care-giving and educational-related work responsibilities, and technology would take a backseat. Health screenings and customer service face-to-face communication would advocate for human contact, with Artificial Intelligence playing a supporting role. </p>
+
+
+
+<p>So, what does this mean for the future of work? The future state of any single job lies in the answer to one single question: to what extent is the job reducible to tackling frequent high-volume tasks and to what extent does it involve tackling novel situations?</p>
+
+
+
+<figure class="is-layout-flex wp-block-gallery-3 wp-block-gallery aligncenter columns-1"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="463" height="232" src="https://insights.blackcoffer.com/wp-content/uploads/2021/06/333-1.jpg" alt="" data-id="3239" data-full-url="https://insights.blackcoffer.com/wp-content/uploads/2021/06/333-1.jpg" data-link="https://insights.blackcoffer.com/?attachment_id=3239" class="wp-image-3239" srcset="https://insights.blackcoffer.com/wp-content/uploads/2021/06/333-1.jpg 463w, https://insights.blackcoffer.com/wp-content/uploads/2021/06/333-1-300x150.jpg 300w" sizes="(max-width: 463px) 100vw, 463px"></figure></li></ul></figure>
+
+
+
+<p>Today machines diagnose diseases and grade exam papers, over the coming years they’re going to conduct audits, they’re going to read boilerplate from legal contracts. But does that mean we’re not going to be needing accountants and lawyers? Wrong. We’re still going to need them for complex tax structuring, for path breaking litigation. It will only get tougher to get these jobs as machine learning will shrink their ranks. </p>
+
+
+
+<p>Amazon has recruited more than 100,000 robots in its warehouses to help move goods and products around more effectively, and its warehouse workforce has expanded by more than 80,000 people. Humans pick and pack goods (Amazon has over 480,000,000 products on its “shelves”), while robots move orders throughout the enormous warehouses, therefore reducing “the amount of walking required of workers, making Amazon pickers more efficient and less exhausted.” Furthermore, because Amazon no longer requires aisle space for humans, the robots enable Amazon to pack shelves together like cars in rush-hour traffic.” More inventory under one roof offers better selection for customers, and a higher density of shelf space equals more inventory under one roof.</p>
+
+
+
+<figure class="is-layout-flex wp-block-gallery-5 wp-block-gallery aligncenter columns-1"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="450" height="210" src="https://insights.blackcoffer.com/wp-content/uploads/2021/06/555.jpg" alt="" data-id="3240" data-full-url="https://insights.blackcoffer.com/wp-content/uploads/2021/06/555.jpg" data-link="https://insights.blackcoffer.com/?attachment_id=3240" class="wp-image-3240" srcset="https://insights.blackcoffer.com/wp-content/uploads/2021/06/555.jpg 450w, https://insights.blackcoffer.com/wp-content/uploads/2021/06/555-300x140.jpg 300w" sizes="(max-width: 450px) 100vw, 450px"></figure></li></ul><figcaption class="blocks-gallery-caption"><strong>Kodak Vs Instagram</strong></figcaption></figure>
+
+
+
+<p>Kodak, once an undisputed giant of the photography industry, had a 90% share in the USA market in 1976, and by 1984, they were employing 1,45,000 people. But in the year 2012, they had a net worth of negative $1 billion and they had to declare bankruptcy. Why? Because they failed to predict the importance of exponential trends when it comes to technology. On the other hand, Instagram, a digital photography company started in 2012 with 13 employees and later they were sold to Facebook for $1 billion. This is so ironic because Kodak pioneered digital photography and actually invented the first digital camera but unfortunately thought of it as a mere product and didn’t pay attention towards it and this created the problem.  </p>
+
+
+
+<p>We live in an era of artificial intelligence (AI), which has given us tremendous computing power, storage space, and information access. We were given the spinning wheel in the first, electricity in the second, and computers in the third industrial revolution by the exponential growth of technology.</p>
+
+
+
+<figure class="is-layout-flex wp-block-gallery-7 wp-block-gallery aligncenter columns-1"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="534" height="333" src="https://insights.blackcoffer.com/wp-content/uploads/2021/06/66.jpg" alt="" data-id="3241" data-full-url="https://insights.blackcoffer.com/wp-content/uploads/2021/06/66.jpg" data-link="https://insights.blackcoffer.com/?attachment_id=3241" class="wp-image-3241" srcset="https://insights.blackcoffer.com/wp-content/uploads/2021/06/66.jpg 534w, https://insights.blackcoffer.com/wp-content/uploads/2021/06/66-300x187.jpg 300w" sizes="(max-width: 534px) 100vw, 534px"></figure></li></ul><figcaption class="blocks-gallery-caption"><strong>Airbnb and its breakthrough idea!</strong></figcaption></figure>
+
+
+
+<p>Airbnb, which is a giant start-up and is known for enabling homeowners to rent out their homes and couches to travellers, for example, “is now creating a new Artificial Intelligence system that will empower its designers and product engineers to literally take ideas from the drawing board and convert them into actual products almost instantly.” This might be a significant breakthrough whether you’re a designer, engineer, or other type of technologist.</p>
+
+
+
+<p><strong>Differences that Automation brings onto the table:</strong> </p>
+
+
+
+<p>There are three key changes that automation can bring about at the macro level: </p>
+
+
+
+<ul><li>Changes in capability demand</li><li>Gender imbalance in workforce redeployment</li><li>Firm reorganization. </li></ul>
+
+
+
+<figure class="is-layout-flex wp-block-gallery-9 wp-block-gallery aligncenter columns-1"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="300" height="162" src="https://insights.blackcoffer.com/wp-content/uploads/2021/06/77.jpg" alt="" data-id="3242" data-full-url="https://insights.blackcoffer.com/wp-content/uploads/2021/06/77.jpg" data-link="https://insights.blackcoffer.com/?attachment_id=3242" class="wp-image-3242"></figure></li></ul><figcaption class="blocks-gallery-caption"><strong>Sectors that might be in trouble</strong></figcaption></figure>
+
+
+
+<p>Artificial Intelligence isn’t just a fad. Tractica, a market research firm, published a report in 2016 that predicted “annual global revenue for artificial intelligence products and services will expand from 643.7 million in 2016 to $36.8 billion by 2025, a 57-fold increase over that time span.” As a result, it is the IT industry’s fastest-growing segment of any size.”</p>
+
+
+
+<p>The reduction in need for people as a result of Artificial Intelligence and related technologies, which resulted in job layoffs, was a cause of fear. In India alone, job losses in the IT sector have reportedly reached 1,000 in the last year, owing to the integration of new and advanced technologies like artificial intelligence and machine learning. </p>
+
+
+
+<p>Most of the IT companies such as Infosys, Wipro, TCS, and Cognizant have reduced their employee base in India and are recruiting less, while engaging more personnel in the United States and investing heavily in “centres of innovation.” Artificial Intelligence and data science, which are currently the trending aspects that require fewer people and are primarily located abroad, aren’t helping the prospects of local employees. Another factor is that the computer industry is continuously growing and would develop to a size of two million workers. Unfortunately, it’s a drop in the bucket compared to what robots are doing to Information Technology’s less-skilled brothers. </p>
+
+
+
+<p>Large e-commerce sites that used to be operated by armies of people are now manned by 200 robots produced by GreyOrange, which is an Indian company based out in Gurgaon. These indefatigable robots lift and stack boxes 24 hours a day, with only a 30-minute break for recharging, and have cut employees by up to 80%. For efficiency, this is a victory but a disaster for job prospects. </p>
+
+
+
+<figure class="is-layout-flex wp-block-gallery-11 wp-block-gallery aligncenter columns-1"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="365" height="251" src="https://insights.blackcoffer.com/wp-content/uploads/2021/06/88.jpg" alt="" data-id="3243" data-full-url="https://insights.blackcoffer.com/wp-content/uploads/2021/06/88.jpg" data-link="https://insights.blackcoffer.com/?attachment_id=3243" class="wp-image-3243" srcset="https://insights.blackcoffer.com/wp-content/uploads/2021/06/88.jpg 365w, https://insights.blackcoffer.com/wp-content/uploads/2021/06/88-300x206.jpg 300w, https://insights.blackcoffer.com/wp-content/uploads/2021/06/88-100x70.jpg 100w, https://insights.blackcoffer.com/wp-content/uploads/2021/06/88-218x150.jpg 218w" sizes="(max-width: 365px) 100vw, 365px"></figure></li></ul><figcaption class="blocks-gallery-caption"><strong>Concluding remarks</strong></figcaption></figure>
+
+
+
+<p>Internal re-skilling and redeployment of staff is a critical requirement of the hour. Artificial intelligence has presented Indian policymakers with epistemological, scientific, and ethical issues. This requires us to abandon regular, linear, and non-disruptive mental patterns. The tale of artificial intelligence’s influence on individuals and their occupations will only be told over time. It is up to us to upskill ourselves and look for ways to stay current with the industry’s current trends and demands. </p>
+
+
+
+<p>So, will machines be able to take over many of our jobs? The answer is a resounding yes. However, for every job that is taken over by robots, there will be an equal number of positions available for people to do. Some of these human vocations will be artistic in nature. Others will necessitate humans honing superhuman cognitive abilities. Humans and machines can form symbiotic relationships, assisting each other in doing what they do best. In the future, people and machines may be able to collaborate and work together towards a common goal for any business they work for. </p>
+
+
+
+<pre class="wp-block-preformatted">Blackcoffer Insights 29:  Syed Basir Quadri and Sanchita Khattar, K J Somaiya Institute of Management </pre>
+    </div>

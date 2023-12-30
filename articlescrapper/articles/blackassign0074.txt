@@ -1,0 +1,91 @@
+<h1 class="entry-title">Impact of AI in health and medicine</h1> <div class="td-post-content tagdiv-type">
+        
+<p>AI allows those in training to go through naturalistic simulations in a way that simple computer-driven algorithms cannot. The advent of natural speech and the ability of an AI  computer to draw instantly on a large database of scenarios means the response to questions, decisions, or advice from a trainee can challenge in a way that humans cannot in health and medicine</p>
+
+
+
+<h3><strong>Health monitoring:</strong></h3>
+<p>Wearable health trackers-like those from <strong>FitBit</strong>, <strong>Apple</strong>, <strong>Garmin</strong>, and others- monitor health rate and activity levels. They can send alerts to the user to get more exercise and can share this information with doctors.</p>
+
+
+
+<ul>
+<li>Technology applications and <a href="https://insights.blackcoffer.com/what-is-the-future-of-mobile-apps/" target="_blank" rel="noopener">apps encourage healthier behavior</a> in individuals and help with the proactive management of a healthy lifestyle.</li>
+<li>AI increases the ability for healthcare professionals to better understand the day-to-day patterns and needs of the people they care, for better feedback, guidance, and support.</li>
+</ul>
+
+
+
+<h3><strong>Medical imaging: </strong></h3>
+<p><a href="https://insights.blackcoffer.com/the-workflow-of-a-machine-learning-artificial-intelligence-project/" target="_blank" rel="noopener">Machine learning algorithms</a> can process unimaginable amounts of information in the blink of an eye and provide more precision than humans in spotting even the smallest detail in medical imaging.  A few of them are <strong>Blackford</strong>, <strong>Zebra</strong>, <strong>Enlitic</strong>, <strong>Lunit</strong>.</p>
+<p>The company “<strong>Zebra Medical Vision</strong>” developed a new platform called profound, which analyzes all types of medical imaging reports that are able to find every sign of potential conditions such as osteoporosis, aortic aneurysms, and many more with a 90% accuracy rate.</p>
+
+
+
+
+
+<h3><strong>Digital consultation: </strong></h3>
+<p>For eg,<a href="https://insights.blackcoffer.com/transforming-the-healthcare-systems/" target="_blank" rel="noopener"> the digital health firm #HealthTap</a> developed “Dr. AI”, and apps like Babylon in the UK use AI to give medical consultations based on personal medical history and common medical knowledge. Users report their symptoms into the app, which uses speech recognition to compare against a database of illness and asks patients to specify symptoms to triage whether they should go to the ED, urgent care, or a primary care doctor.</p>
+
+
+
+<p>AI robot-assisted surgery: Robots have been used in medicine for more than 30 years. Surgical robots can either aid a human surgeon or execute operations by themselves. They’re also used in hospitals and labs for repetitive tasks, in rehabilitation, physical therapy, and in support of those with long-term conditions.     </p>
+
+
+
+<p> Health chatbots such as <strong>Babylon</strong>, <strong>Ada,</strong> and mostly close-ended communications.</p>
+
+
+
+<h2><strong>Machine learning is a type of AI that allows computers to make predictions without being explicitly</strong></h2>
+
+
+
+<ul>
+<li>Provides formal conceptual Framework for input processing and decision making in diagnosis and management</li>
+<li>Objective decision making with less variance</li>
+<li>High speed and efficiency</li>
+<li><a href="https://www.changehealthcare.com/solutions/data-analytics" target="_blank" rel="noopener">Unlock the power of big data and gain insight into patients.</a></li>
+<li>Support evidence-based decision-making, improving quality, safety, and efficiency.</li>
+<li>Coordination care and faster communication</li>
+<li>Improve patient experiences and outcomes</li>
+<li>Deliver value and reduce costs</li>
+<li>Improve health system performance and optimization</li>
+</ul>
+
+
+
+<h2><strong><u>Examples of AI in healthcare and medicine</u></strong></h2>
+
+
+
+<p>#MICROSOFT: Predictive analysis in vision care</p>
+
+
+
+<p>#GOOGLE: clinical decision support in breast cancer diagnosis</p>
+
+
+
+<p>#IBM WATSON: precision medicine in population health management</p>
+
+
+
+<p>Actionable medical insights:  An ever-increasing amount of medical data are being digitized at all public and private healthcare institutions. However, by its very nature, this kind of data is messy and unstructured. Unlike other types of business data, where traditional statistical methods can be used for quick insights, patient data is not particularly amenable to simple modeling and analytics tools.</p>
+
+
+
+<p><strong> For eg</strong>.- <strong>Enlitic, a San Francisco-based</strong> start-up, has a mission of mixing intelligence with empathy and leverage the power of AI in health and medicine for precisely generating.</p>
+
+
+
+<p>Therefore, a massive parallel effort to rationalize the legal and policy-making is needed to bring the full benefit of advancement in AI technologies into the healthcare space. As technologies and AI/ML enthusiasts, we can only hope for such a bright future where the power of this intelligence.</p>
+
+
+
+<pre class="wp-block-preformatted">Blackcoffer Insights 24: Shaffy Garg, Baba Farid college of management and technology </pre>
+
+
+
+<p> </p>
+    </div>

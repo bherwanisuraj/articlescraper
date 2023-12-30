@@ -1,0 +1,120 @@
+<h1 class="entry-title">Global financial crisis 2008 causes/effects and its solution</h1> <div class="td-post-content tagdiv-type">
+        
+<h2><strong><em><u>Brief </u></em></strong></h2>
+
+
+
+<p>The Financial Crisis of 2008 started as a crisis in the subprime mortgage market (i.e. in a market where lending of loans is done to people who may have difficulty in maintaining the repayment schedule or in simple terms, loans were given out to people without proper checks and low credit scores) which ultimately led onto a huge global collapse.</p>
+
+
+
+<p><img decoding="async" width="328" height="187" src="">The <strong>Financial Crisis of 2008</strong> or <strong>Great Recession</strong> is considered the worst economic crisis since the Great Depression.</p>
+
+
+
+<h2><strong><em><u>Financial Crisis Explained –</u></em></strong></h2>
+
+
+
+<p>In the year 1996, there was a dot-com boom (or otherwise known as the dot com bubble) in the United States, a period of massive growth in the use of the internet because of which the stock market prices started increasing rapidly. However, around the year 2000, it dropped which led people and investors to withdraw their investments from the stock market rapidly. It led to the decline of the price of shares in stock markets and the interest rate plummeted to around 1% very quickly in a short span.</p>
+
+
+
+<p>Investors were now looking for a brighter option than investing in stock markets.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="405" height="231" src="https://insights.blackcoffer.com/wp-content/uploads/2020/08/c1.jpg" alt="" class="wp-image-1945" srcset="https://insights.blackcoffer.com/wp-content/uploads/2020/08/c1.jpg 405w, https://insights.blackcoffer.com/wp-content/uploads/2020/08/c1-300x171.jpg 300w" sizes="(max-width: 405px) 100vw, 405px"></figure></div>
+
+
+
+<p>   <strong>Fig –</strong> Rise and fall of the Dot Com Bubble</p>
+
+
+
+<p>As interest rates went lower and lower, real estate prices started rising and the US Govt also encouraged people to buy houses and properties. The demand for the same started rising rapidly and investors now found a great option to invest in (i.e. in Real Estate).</p>
+
+
+
+<p>During that same time, Investment Banks saw an opportunity, chimed in and started buying loans from Banks in bulk and clubbed multiple loans under a complex derivative called CDO (Collateralized Debt Obligations) and started providing it to these Investors after getting a credit rating of “AAA” (Very Safe Investment) from the Credit Rating Agencies. Investors naturally fell for it and started buying these CDOs.</p>
+
+
+
+<p>So now, the risk factor of these loans got transferred from the Banks to the Investment Banks and then again to the CDO Investors.</p>
+
+
+
+<p>With the high buying demand of CDOs, Investment banks started demanding or pressurizing Banks to provide even more Loans so that they can provide more CDOs to the Investors. However, Banks had already provided loans to people with good credit history and regular income people. But in the hope of getting even more credit from Investment Banks, these same banks then started giving out subprime housing loans to people with low credit scores.<br>Approximately $174Bn worth of loans were given out during the period 2000-2007 and most of them were clubbed as CDOs with a “AAA” rating from the Credit Rating Agencies. Approximately 70% of these CDO’s were marked with a “AAA” rating.</p>
+
+
+
+<p>Investment Banks and Credit Rating Agencies were now enjoying large profits during this time. Moody’s (a credit rating agency) profits increased 4x times during that period (2000-2007).</p>
+
+
+
+<p>Looking at the huge profits being made by the Investment Banks and Credit Rating Agencies, Insurance companies (like AIG) now started giving out insurance on these CDOs to the investors and they called it CDS (Credit Default Swap). AIG believed that since the CDOs were rated as “AAA” (Very Safe Investment), the failure chances of these CDOs were very minimal. They misjudged or were unaware of the fact that some of the loans that were clubbed under these CDOs were Sub Prime loans.</p>
+
+
+
+<p><img decoding="async" loading="lazy" width="634" height="282" src="">Now CDO Investors started buying out CDS from AIG and other companies to safeguard and protect them from any losses. AIG then started making huge profits because of the premiums that the investors had to pay. But they never realized the outcome if by any chance the CDOs fail at some point in time. Thus, the risk factor again got transferred from the CDO investors to the Insurance Companies.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="429" height="354" src="https://insights.blackcoffer.com/wp-content/uploads/2020/08/c2.jpg" alt="" class="wp-image-1946" srcset="https://insights.blackcoffer.com/wp-content/uploads/2020/08/c2.jpg 429w, https://insights.blackcoffer.com/wp-content/uploads/2020/08/c2-300x248.jpg 300w" sizes="(max-width: 429px) 100vw, 429px"></figure></div>
+
+
+
+<p><strong>Fig –</strong> Flow Diagram showing how the Risk Factors got transferred</p>
+
+
+
+<p>Coming to the loan borrowers now, Sub Prime Borrowers from banks were unaware of the fact of Adjustable Rate Loans (interest rate of these loans keeps changing) and thus had to pay lower interests at the start but more interest rates later on.</p>
+
+
+
+<p>The borrowers started defaulting on these loans when the interest rates increased dramatically around 2007 and thus banks had to then resell those houses to make up for the loans defaulted.  Added to the problem was the fact that borrowers were not spending any amount of money from their pockets while taking loans and banks were providing the full amount of loans. Almost 50% of the borrowers did not pay anything from their own pocket and bought the home only using the housing loan.</p>
+
+
+
+<p>This led to a huge increase in the defaulters of borrowers and ultimately banks had to auction houses to gain credit back. With the high-interest rates and no one to buy the auctioned houses, this ultimately caused a chain reaction and banks were no longer receiving credit. The prices of Real Estate started falling drastically and people with good credit scores who had earlier taken housing loans also started defaulting because the price of their houses/homes fell below the loan amount that they had taken earlier. Banks stopped receiving money and also because of this chain reaction, the value of CDOs ultimately came down to 0.</p>
+
+
+
+<p>Some Investors went for huge losses and few Investment companies went bankrupt (ex – Lehman Brothers). Moreover, insurance companies had to pay back those investors who had taken insurance. As a result, some of the insurance companies also went bankrupt. AIG too almost lost about $100Bn in paying back the investors who had earlier insured their CDOs. However, the US Govt. finally decided to bail out AIG in order to save them from going bankrupt.</p>
+
+
+
+<p>CDOs and CDSs were not regulated during that time by the Federal Reserve and thus this whole situation ultimately led to credit crunch (became very difficult to get loans) and the whole economy of the US underwent a crisis that led to a global impact all around the world. Unemployment increased manifold and many new businesses had to shut down. Global trades all around the world also saw a crisis and finally, Global Recession hit the World.</p>
+
+
+
+<h2><strong><u>Causes of the Crisis –</u></strong></h2>
+
+
+
+<ul><li>Improper screening of loan borrowers resulting in subprime loan borrowers which included even borrowers with no stable income.</li><li>Credit rating agencies rated all the CDOs highly and investors were purchasing without proper monitoring. the same goes for Insurance companies.</li><li>Lax regulation of CDOs and CDS’ by federal reserve banks.</li><li>The large size of interbank lending that compounded the crisis</li></ul>
+
+
+
+<h2><br><strong><u>Effects of the Crisis –</u></strong></h2>
+
+
+
+<ul><li>House prices plummeted.</li><li>The unemployment rate increased all over the US and the EU.</li><li>8M people lost jobs globally</li><li>2.5M business devastated</li><li>4M houses foreclosed.</li><li>Approx. $450Bn losses (Banks and Investment Banks combined)</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="917" height="369" src="https://insights.blackcoffer.com/wp-content/uploads/2020/08/c3.jpg" alt="" class="wp-image-1947" srcset="https://insights.blackcoffer.com/wp-content/uploads/2020/08/c3.jpg 917w, https://insights.blackcoffer.com/wp-content/uploads/2020/08/c3-300x121.jpg 300w, https://insights.blackcoffer.com/wp-content/uploads/2020/08/c3-768x309.jpg 768w, https://insights.blackcoffer.com/wp-content/uploads/2020/08/c3-696x280.jpg 696w" sizes="(max-width: 917px) 100vw, 917px"></figure>
+
+
+
+<h2><strong><u>Ways to Avoid Such Crisis in Future –</u></strong></h2>
+
+
+
+<ul><li>Tighter regulations on loan screenings.</li><li>Regulations to prevent banks from growing too big and preventing systemic risks (addressing ‘Too Big to Fail’ problem)</li><li>Borrowers must be made aware of rate adjustable loans</li><li>Credit rating agencies should not rate the CDOs without proper risk assessment.</li><li>Partnership with Fintech companies to develop robust alternative credit scoring models for people with less credit history.</li><li>Strict regulation on CDOs and CDS’ by Federal Banks</li></ul>
+
+
+
+<pre class="wp-block-preformatted">Blackcoffer Insights 19: Neermalya Pratim Das, SCMHRD-Pune</pre>
+    </div>
